@@ -1,0 +1,83 @@
+/* デフォルトのフォントサイズは10px layoutに設定してある。 */
+
+.f-11 {
+  font-size: 1.1rem;
+  /* 11px */
+}
+
+.f-12 {
+  font-size: 1.2rem;
+}
+
+.f-13 {
+  font-size: 1.3rem;
+}
+
+.f-14 {
+  font-size: 1.4rem;
+}
+
+.f-15 {
+  font-size: 1.5rem;
+}
+
+.f-16 {
+  font-size: 1.6rem;
+}
+
+.f-17 {
+  font-size: 1.7rem;
+}
+
+.f-18 {
+  font-size: 1.8rem;
+}
+
+.f-19 {
+  font-size: 1.9rem;
+}
+
+.f-20 {
+  font-size: 2rem;
+}
+
+.f-21 {
+  font-size: 2.1rem;
+}
+
+.f-22 {
+  font-size: 2.2rem;
+}
+
+.f-23 {
+  font-size: 2.3rem;
+}
+
+.f-24 {
+  font-size: 2.4rem;
+}
+
+.f-25 {
+  font-size: 2.5rem;
+}
+
+.f-bold {
+  font-weight: bold;
+}
+
+.line-height-120 {
+  line-height: 120%;
+}
+
+.line-height-150 {
+  line-height: 150%;
+}
+
+.container-fluid {
+  max-width: 72rem;
+}
+
+.infinite-loading {
+  margin: 30px 0;
+  font-size: 14px;
+}
